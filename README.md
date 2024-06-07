@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Gagan</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<a href="https://visitcount.itsvg.in/api?id=gagan-k454545&label=Profile%20Views&color=7&icon=5&pretty=true)]https://visitcount.itsvg.in"
+<a href="https://visitcount.itsvg.in/api?id=gagan-k454545&label=Profile%20Views&color=7&icon=5&pretty=true)]https://visitcount.itsvg.in"></a>
 
 <img align="right" alt="coding" width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681827942724/9aad4026-75d9-4464-9207-6f53316dd873.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm">
 
