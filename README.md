@@ -1,4 +1,4 @@
-<div>hellow how are you this is my github profile</di
+<div>hellow how are you this is my github profile</d
 <h1 align="center">Hi 👋, I'm Gagan</h1>
 
 <h3 align="center">A passionate web developer from India</h3>
